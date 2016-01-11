@@ -1,0 +1,1 @@
+<a href="/{{ $page }}" class="btn btn-default btn-curved" style="margin-bottom: 40px;"><i class="fa fa-chevron-circle-left"></i> Back to {{ $page }}</a>
